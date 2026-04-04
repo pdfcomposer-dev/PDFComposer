@@ -20,6 +20,31 @@ Windows 向けの軽量 PDF ページ編集ツールです。
 
 ---
 
+## Features / 機能
+
+- Insert, delete, move, and rotate PDF pages  
+  PDF ページの挿入・削除・移動・回転に対応
+
+- Combine multiple PDFs into a single document  
+  複数の PDF を 1 つのドキュメントに結合
+
+- Save as a password-protected PDF  
+  パスワード付き PDF として保存可能
+
+- Automatically store and reuse save passwords  
+  保存用パスワードの自動保存と再利用に対応
+
+- Automatically remember correct passwords when opening protected PDFs  
+  パスワード付き PDF を開く際の正しいパスワードを自動記憶
+
+- All processing is performed entirely on your device  
+  すべての処理はローカルで完結（外部送信なし）
+
+- Lightweight and simple Windows UI  
+  軽量でシンプルな Windows UI
+
+---
+
 ## Status / 開発状況
 PDF Composer is currently under development.  
 A public release will be available soon.
