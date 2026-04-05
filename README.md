@@ -16,7 +16,7 @@ Windows 向けの軽量 PDF ページ編集ツールです。
 
 **すべての処理はお使いのデバイス上で完全に行われ、ファイル、パスワード、個人情報を含むいかなるデータも外部に送信されることはありません。**
 
-<img width="491" height="372" alt="PDFComposer" src="https://github.com/user-attachments/assets/d85f9b05-75b8-443f-9d14-1ea12ee0bac1" />
+<img width="482" height="415" alt="PDFComposer" src="https://github.com/user-attachments/assets/0c37f9d4-094a-49c6-b858-f75a8f767704" />
 
 ---
 
