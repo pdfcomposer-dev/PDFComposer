@@ -1,20 +1,17 @@
 # PDF Composer
 
 ## Abstract / 概要
-A lightweight PDF page editor for Windows.  
-Insert, delete, move, rotate, and combine pages with a simple UI.  
-Supports password-protected saving with automatic password storage.  
-Passwords used for saving can be stored and reused later, and passwords entered when opening protected PDFs are remembered automatically.
+A PDF page editor for Windows. Insert, delete, move, rotate, and combine pages with a simple and clean UI.
+Supports password-protected saving with automatic password storage. Passwords used for saving can be stored and reused later, and passwords entered when opening protected PDFs are remembered automatically.
+You can also encrypt PDFs when saving and open encrypted PDFs with stored passwords.
 
 **All processing is performed entirely on your device. No files, passwords, or personal data are ever sent outside your device.**
 
-Windows 向けの軽量 PDF ページ編集ツールです。  
-ページの挿入、削除、移動、回転、結合に対応し、  
-パスワード付き保存およびパスワードの自動保存機能を備えています。  
-保存時に使用したパスワードは記憶して再利用でき、  
-パスワード付き PDF を開く際に入力した正しいパスワードも自動的に記憶されます。
+Windows向けのPDFページ編集ツールです。ページの挿入、削除、移動、回転、結合に対応し、シンプルで使いやすい UI を備えています。
+パスワード付き保存に対応し、保存時に使用したパスワードを自動的に記憶できます。保護されたPDFを開く際に入力したパスワードも自動的に保存され、次回以降は入力不要になります。
+保存時のPDF暗号化や、暗号化されたPDFの開封にも対応しています。
 
-**すべての処理はお使いのデバイス上で完全に行われ、ファイル、パスワード、個人情報を含むいかなるデータも外部に送信されることはありません。**
+**すべての処理はデバイス内で完結します。ファイルやパスワード、個人情報が外部に送信されることはありません。**
 
 <img width="482" height="415" alt="PDFComposer" src="https://github.com/user-attachments/assets/0c37f9d4-094a-49c6-b858-f75a8f767704" />
 
