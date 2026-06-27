@@ -1,26 +1,22 @@
 # PDF Composer
 
-## Windows向けの軽量PDF編集ツールです。/ A lightweight PDF editor for Windows.
+*by K.Yokoyama (Japan)*
 
-- ページの挿入、削除、移動、回転、抽出<br>
-Insert, delete, move, rotate, and extract pages
+A simple and easy-to-use PDF page editor for Windows.
 
-- 複数PDFの結合<br>
-Merge multiple PDF files
+## Features
 
-- パスワード付きPDFの閲覧・保存に対応<br>
-Supports encrypted PDFs and password-protected saving
+- Insert, delete, move, rotate, and extract PDF pages
+- Merge multiple PDF files
+- Open and save password-protected PDFs
+- Completely offline, with no ads and no telemetry
 
-- 完全オフライン、広告なし、外部通信なし<br>
-Completely offline — no ads, no tracking, no external communication
+All processing is performed entirely on your device.  
+Your files, passwords, and personal information are never sent outside your device.
 
-- すべての処理はデバイス内で完結します。ファイルやパスワード、個人情報が外部に送信されることはありません。<br>
-All processing is performed entirely on your device. Files, passwords, and personal data are never sent outside your device.
-
----
-
-## ダウンロード / Download
-- Microsoft Storeから利用できます。<br>
-Available on Microsoft Store.
-
+## Download
 [![Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9p1mfhgvv5zl)
+
+## Support
+If you enjoy using PDF Composer, your support is greatly appreciated. Thank you for supporting future development.
+https://github.com/sponsors/pdfcomposer-dev
